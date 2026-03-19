@@ -21,7 +21,7 @@ CRYPTO_PAY_TOKEN = "552774:AAmFNSbZesnNHDgVLPMvv2jLhHyfxY3mylr"
 
 COMMISSION_PERCENT = 0.10  # 10% комиссия
 
-bot = Bot(BOT_TOKEN)
+bot = Bot(8706062192:AAFwM2ZxkVnXqoGuDVSXGcdf5Cw3tbuEl5A)
 dp = Dispatcher()
 
 # ================= FSM =================
